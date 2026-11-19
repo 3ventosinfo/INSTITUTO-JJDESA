@@ -1,0 +1,16 @@
+INSTITUTO JJDESA — SITE INSTITUCIONAL
+===================================
+
+Como visualizar:
+1. Extraia o arquivo ZIP.
+2. Abra a pasta instituto_jjdesa_site.
+3. Clique duas vezes em index.html para abrir no navegador.
+
+Arquivos:
+- index.html: conteúdo do site.
+- style.css: identidade visual e layout responsivo.
+- script.js: menu móvel e ano automático.
+- assets/: logotipo e fotografias fornecidas.
+
+Observação importante:
+O perfil do Facebook informado não disponibilizou seu conteúdo para leitura automatizada nesta sessão. Por isso, o texto institucional foi redigido como uma proposta inicial com base nas informações fornecidas nesta conversa e não reproduz publicações do Facebook. O link da página foi incluído no site. Revise e confirme missão, histórico, atividades, contatos e eventuais credenciais antes de publicar.
